@@ -17,6 +17,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,8 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
