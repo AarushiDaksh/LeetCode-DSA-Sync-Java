@@ -58,4 +58,8 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
