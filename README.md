@@ -20,6 +20,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
