@@ -64,5 +64,10 @@ Each question is organized by its LeetCode problem folder. This repository track
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
