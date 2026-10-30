@@ -40,6 +40,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 | ------- |
 | [2409-count-days-spent-together](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,12 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
