@@ -22,6 +22,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -79,6 +80,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
