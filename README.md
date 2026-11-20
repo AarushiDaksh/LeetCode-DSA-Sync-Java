@@ -20,6 +20,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3693-climbing-stairs-ii) |
@@ -38,6 +39,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 ## Dynamic Programming
 |  |
 | ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
