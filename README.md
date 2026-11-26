@@ -78,6 +78,7 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Each question is organized by its LeetCode problem folder. This repository track
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/AarushiDaksh/LeetCode-DSA-Sync-Java/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
